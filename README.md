@@ -5,7 +5,7 @@ npm install
 <br>
 npm start
 
-# Backend
+# Frontend
 npm install
 <br>
 npm  run dev
