@@ -4,8 +4,8 @@
 npm install
 <br>
 npm start
-# Frontend
-<br>
+
+# Backend
 npm install
 <br>
 npm  run dev
